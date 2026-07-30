@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
