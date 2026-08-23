@@ -8,9 +8,12 @@ class Solution:
         prev = None 
         current = head 
 
-        while current:
-            next_node = current.next 
+        while current: 
+
+            next_node = current.next         
             current.next = prev 
-            prev = current
+            prev = current               
             current = next_node
+            
         return prev      
+
