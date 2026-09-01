@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
