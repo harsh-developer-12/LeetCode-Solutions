@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1603-running-sum-of-1d-array](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
