@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [4299-concatenate-array-with-reverse](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [4177-reverse-string-prefix](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/4177-reverse-string-prefix) |
+## Simulation
+|  |
+| ------- |
+| [4299-concatenate-array-with-reverse](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/4299-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
