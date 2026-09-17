@@ -5,7 +5,8 @@
 #         self.next = next
 class Solution:
     def removeElements(self, head: ListNode | None, val: int) -> ListNode | None:
-         dummy = ListNode(0, head)
+         dummy = ListNode(0) 
+         dummy.next = head
          curr = dummy
  
          while curr and curr.next:
