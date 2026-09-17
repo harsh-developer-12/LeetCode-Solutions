@@ -88,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -113,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [4177-reverse-string-prefix](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
 |  |
