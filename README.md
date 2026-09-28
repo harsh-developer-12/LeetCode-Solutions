@@ -8,6 +8,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -104,6 +106,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -111,6 +114,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
