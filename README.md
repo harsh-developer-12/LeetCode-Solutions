@@ -54,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -127,6 +129,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [4177-reverse-string-prefix](https://github.com/harsh-developer-12/LeetCode-Solutions/tree/master/4177-reverse-string-prefix) |
 ## Simulation
